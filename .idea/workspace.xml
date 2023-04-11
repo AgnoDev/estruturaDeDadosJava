@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e2d81e-6359-41d3-88d2-de8bf790cab9" name="Changes" comment="cria classe carro e implementa stack e seus metodos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/queue/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/queue/Main.java" afterDir="false" />
+    <list default="true" id="03e2d81e-6359-41d3-88d2-de8bf790cab9" name="Changes" comment="cria classe carro e implementa queue(fila) e seus metodos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayList/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrayList/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +48,26 @@
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.queue.Main">
+  <component name="RunManager" selected="Application.arrayList.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="ImplementandoEstruturasDeDadosJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.Main" />
+      <module name="ImplementandoEstruturasDeDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayList.Main" />
         <item itemvalue="Application.queue.Main" />
         <item itemvalue="Application.stack.Main" />
         <item itemvalue="Application.equalsHashcode.Main" />
@@ -133,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681235491859</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cria classe carro e implementa queue(fila) e seus metodos">
+      <created>1681236930055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681236930055</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +177,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cria classe carro e implementa equals e hashCode" />
     <MESSAGE value="cria classe carro e implementa stack e seus metodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="cria classe carro e implementa stack e seus metodos" />
+    <MESSAGE value="cria classe carro e implementa queue(fila) e seus metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="cria classe carro e implementa queue(fila) e seus metodos" />
   </component>
 </project>
