@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e2d81e-6359-41d3-88d2-de8bf790cab9" name="Changes" comment="implementa ArrayList e seus metodos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashSet/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hashSet/Main.java" afterDir="false" />
+    <list default="true" id="03e2d81e-6359-41d3-88d2-de8bf790cab9" name="Changes" comment="implementa HashSet e seus metodos + metodo comparableTo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hashMap/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrayList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exampleMain/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hashSet/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +38,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/workspace-dio/implementando-estruturas-de-dados-java/ImplementandoEstruturasDeDadosJava/src/main/java/arrayList"
+    "last_opened_file_path": "C:/workspace-dio/implementando-estruturas-de-dados-java/ImplementandoEstruturasDeDadosJava/src/main/java/hashSet"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java\hashSet" />
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java\arrayList" />
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java\stack" />
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java\equalsHashcode" />
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashSet.Main">
-    <configuration name="arrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayList.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.Main" />
       <module name="ImplementandoEstruturasDeDadosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrayList.*" />
+          <option name="PATTERN" value="hashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equalsHashcode.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsHashcode.Main" />
+    <configuration name="arrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayList.Main" />
       <module name="ImplementandoEstruturasDeDadosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalsHashcode.*" />
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.hashSet.Main" />
         <item itemvalue="Application.arrayList.Main" />
         <item itemvalue="Application.queue.Main" />
         <item itemvalue="Application.stack.Main" />
-        <item itemvalue="Application.equalsHashcode.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681238094005</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="implementa HashSet e seus metodos + metodo comparableTo">
+      <created>1681241150427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681241150427</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +195,7 @@
     <MESSAGE value="cria classe carro e implementa stack e seus metodos" />
     <MESSAGE value="cria classe carro e implementa queue(fila) e seus metodos" />
     <MESSAGE value="implementa ArrayList e seus metodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementa ArrayList e seus metodos" />
+    <MESSAGE value="implementa HashSet e seus metodos + metodo comparableTo" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementa HashSet e seus metodos + metodo comparableTo" />
   </component>
 </project>
