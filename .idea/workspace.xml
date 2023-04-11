@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e2d81e-6359-41d3-88d2-de8bf790cab9" name="Changes" comment="cria classe carro e implementa equals e hashCode">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stack/Main.java" afterDir="false" />
+    <list default="true" id="03e2d81e-6359-41d3-88d2-de8bf790cab9" name="Changes" comment="cria classe carro e implementa stack e seus metodos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/queue/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queue/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +38,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/workspace-dio/implementando-estruturas-de-dados-java/ImplementandoEstruturasDeDadosJava/src/main/java/equalsHashcode"
+    "last_opened_file_path": "C:/workspace-dio/implementando-estruturas-de-dados-java/ImplementandoEstruturasDeDadosJava/src/main/java/stack"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java\stack" />
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java\equalsHashcode" />
       <recent name="C:\workspace-dio\implementando-estruturas-de-dados-java\ImplementandoEstruturasDeDadosJava\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.stack.Main">
+  <component name="RunManager" selected="Application.queue.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="ImplementandoEstruturasDeDadosJava" />
@@ -75,6 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="queue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.Main" />
+      <module name="ImplementandoEstruturasDeDadosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="stack.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.Main" />
       <module name="ImplementandoEstruturasDeDadosJava" />
@@ -90,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.queue.Main" />
         <item itemvalue="Application.stack.Main" />
         <item itemvalue="Application.equalsHashcode.Main" />
         <item itemvalue="Application.Main" />
@@ -112,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681234222195</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cria classe carro e implementa stack e seus metodos">
+      <created>1681235491859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681235491859</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cria classe carro e implementa equals e hashCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="cria classe carro e implementa equals e hashCode" />
+    <MESSAGE value="cria classe carro e implementa stack e seus metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="cria classe carro e implementa stack e seus metodos" />
   </component>
 </project>
